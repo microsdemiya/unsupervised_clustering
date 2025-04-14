@@ -1,15 +1,9 @@
+Unsupervised Clustering Project
 
-# Unsupervised Clustering Project
+This Streamlit app allows users to upload CSV datasets and automatically classify data using a trained KMeans model.
 
-This is a Streamlit app for unsupervised clustering project.
-
-## How to Run
+## 🔧 How to Run
 
 ```bash
 pip install -r requirements.txt
 streamlit run app/main.py
-```
-
-## Deployment
-
-Upload to GitHub and link with Streamlit Cloud.
